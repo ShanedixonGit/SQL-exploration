@@ -1,13 +1,13 @@
 # SQL Exploration Project
 
-## Introduction
+## Introduction:
 
-## Business Task
+## Business Task:
 
-## Data Sources
+## Data Sources:
 
-## The cleaning process
+## The cleaning process:
 
-## Data manipulation and analysis
+## Data manipulation and analysis:
 
 # Continue to:
